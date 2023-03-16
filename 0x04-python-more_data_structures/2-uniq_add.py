@@ -4,10 +4,4 @@ def uniq_add(my_list=[]):
     sum = 0
     for i in new_list:
         sum += i
-    return sum
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
- 
+    return sum 
