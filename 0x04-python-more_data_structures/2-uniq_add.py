@@ -1,6 +1,13 @@
 #!/usr/bin/python3
 def uniq_add(my_list=[]):
-    number = 0
-    for element in set(my_list):
-        number += element
-    return 
+    new_list = set(my_list)
+    sum = 0
+    for i in new_list:
+        sum += i
+    return sum
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+
+    Terms
+ 
