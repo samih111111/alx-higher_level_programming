@@ -48,5 +48,6 @@ try:
 
     print_info()
 except KeyboardInterrupt:
-    print_info()
-    raise
+   print_info()
+   raise
+
